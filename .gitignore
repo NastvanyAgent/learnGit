@@ -1,2 +1,11 @@
+# executable
 main
+
+# verision control
+.git
+.gitignore
+
+# vim swap files
+.Dockerfile.swp
+.gitignore.swp
 .main.c.swp
