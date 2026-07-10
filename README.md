@@ -4,4 +4,4 @@
 *I am in italic*
 **I am BOLD**
 ***I am both!!!***
-E<sup>superscript!!!</sup>
+E<sup>superscript! :)</sup>
