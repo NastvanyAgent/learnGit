@@ -1,2 +1,3 @@
-# learnGit
-iwanttolearngit
+### Learning Git
+## Basic README formatting
+
